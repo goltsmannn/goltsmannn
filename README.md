@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**goltsmannn/goltsmannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mark Goltsman
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+HSE Lyceum '2024 
+
+MSHP 4 years grad '2023
+
+
+## 🛠 Skills
+Django developer
+
+Familiar with REST API (djangorestframework)
+
+Worked with Json Web Tokens Authorization
+
+C++ 4 years, sports coding 3 years. Recently started codeforces: goltsmannn
+
+Yandex Maps API 2.1/react 
+
+Python (+numpy, pandas, matplotlib)
+
+Javascript (+axios), HTML, CSS
+
+WIP React
+
+Working on huge graduation django+drf+react+ymaps api
+## 🔗 Links
+[![codeforces](https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg)](https://codeforces.com/profile/goltsmannn)
+
+
