@@ -10,9 +10,7 @@ MSHP 4 years grad '2023
 
 
 ## 🛠 Skills
-Django developer
-
-Familiar with REST API (djangorestframework)
+Main stack: Django + djangorestframework + React
 
 Worked with Json Web Tokens Authorization
 
@@ -24,7 +22,7 @@ Python (+numpy, pandas, matplotlib)
 
 Javascript (+axios), HTML, CSS
 
-WIP React
+
 
 Working on huge graduation django+drf+react+ymaps api
 ## 🔗 Links
