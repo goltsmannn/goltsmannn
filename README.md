@@ -4,6 +4,8 @@
 
 
 ## 🚀 About Me
+
+###UNIFIED BY FOOTBALL RELEASED: http://unifiedbyfootball.ru
 HSE Lyceum '2024 
 
 MSHP 4 years grad '2023
@@ -28,6 +30,5 @@ Javascript (+axios), HTML, CSS
 Working on huge graduation django+drf+react+ymaps api
 ## 🔗 Links
 [![codeforces](https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg)](https://codeforces.com/profile/goltsmannn)
-[![UNIFIED BY FOOTBALL IS DEPLOYED NOW!](https://e7.pngegg.com/pngimages/248/249/png-clipart-american-football-football-team-football-sport-sports-equipment.png)](http://unifiedbyfootball.ru)
 
 
