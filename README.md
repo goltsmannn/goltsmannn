@@ -6,19 +6,20 @@
 ## 🚀 About Me
 
 ### UNIFIED BY FOOTBALL RELEASED: http://unifiedbyfootball.ru
-HSE Lyceum '2024 
+National Research University Higher School of Economics Lyceum '24 
 
-MSHP 4 years grad '2023
+Moscow Programming School (4 years) grad '23
 
+International A-levels: A*A*A* (Physics, Further Mathematics, Mathematics)
 
 ## 🛠 Skills
 Main stack: Django + djangorestframework + React
 
-C++ 4 years, sports coding 3 years. Recently started codeforces: goltsmannn
+C++ 4 years, sports coding 3 years. Old codeforces: goltsmannn
 
-Linux, Gunicorn, NGINX
+DevOps: Linux (Ubuntu), Gunicorn, NGINX, Systemd
 
-Yandex Maps API 2.1/react 
+API: Yandex Maps API 2.1; Ymaps React Wrapper
 
 Worked with Json Web Tokens Authorization
 
