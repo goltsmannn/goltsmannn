@@ -10,7 +10,7 @@ National Research University Higher School of Economics Lyceum '24
 
 Moscow Programming School (4 years) grad '23
 
-International A-levels: A*A*A* (Physics, Further Mathematics, Mathematics)
+International A-levels: A* A* A* (Physics, Further Mathematics, Mathematics)
 
 ## 🛠 Skills
 Main stack: Django + djangorestframework + React
