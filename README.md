@@ -5,7 +5,9 @@
 
 ## 🚀 About Me
 
-### UNIFIED BY FOOTBALL RELEASED: http://unifiedbyfootball.ru
+### UNIFIED BY FOOTBALL RELEASED: http://unifiedbyfootball.ru (P.S. outdated)
+#Georgia Institute of Technology (Computer Science) '28
+
 National Research University Higher School of Economics Lyceum '24 
 
 Moscow Programming School (4 years) grad '23
