@@ -12,7 +12,7 @@ National Research University Higher School of Economics Lyceum '24
 International A-levels: A* A* A* (Physics, Further Mathematics, Mathematics)
 
 ## 🛠 Skills
-Python: Django, django-rest-framework, matplotlib, numpy, pandas, sklearn, mediapipe
+Python: Django, django-rest-framework, matplotlib, numpy, pandas, sklearn, mediapipe, unittest
 
 Web: HTML/CSS, JavaScript, ReactJS, JWT, Node.js
 
