@@ -28,3 +28,5 @@ API: Yandex Maps API 2.1; Ymaps React Wrapper; OpenAI API; Telegram API; VK API
 [![LinkedIn](https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg)](https://www.linkedin.com/in/goltsmannn/)
 
 
+![goltsmannn's Stats](https://github-readme-stats.vercel.app/api?username=goltsmannn&theme=merko&show_icons=true&hide_border=false&count_private=true)
+![goltsmannn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=goltsmannn&theme=merko&hide_border=false)
