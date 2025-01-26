@@ -12,15 +12,17 @@ National Research University Higher School of Economics Lyceum '24
 International A-levels: A* A* A* (Physics, Further Mathematics, Mathematics)
 
 ## 🛠 Skills
-Python: Django, django-rest-framework, matplotlib, numpy, pandas, sklearn, mediapipe, unittest
+Web-Development: Node.js, WebSockets, TypeScript, JSON Web Tokens, React JS, Django, Django-Rest-Framework, HTML/CSS
 
-Web: HTML/CSS, JavaScript, ReactJS, JWT, Node.js
+DS and ML: pandas, sklearn, boosting, mediapipe
 
-C++: protobuf, sockets, async
+Languages: C++, Java, Python, JavaScript
 
-Miscellaneous: CMake, nix (nix-flakes), git, Unix, SQL, GTest, NGINX, competitive programming
+Miscellaneous: CMake, protobuf, nix (nix-flakes), git, Unix, SQL, competitive programming
 
 API: Yandex Maps API 2.1; Ymaps React Wrapper; OpenAI API; Telegram API; VK API
+
+Additional: Photo Editing (Lightroom), Video editing/VFX (Davinci Resolve), Filming: DJI Mini 3, Nikon D5600
 
 ### UNIFIED BY FOOTBALL RELEASED: http://unifiedbyfootball.club (WIP to get the hosting back)
 
