@@ -12,17 +12,11 @@ National Research University Higher School of Economics Lyceum '24
 International A-levels: A* A* A* (Physics, Further Mathematics, Mathematics)
 
 ## 🛠 Skills
-Web-Development: Node.js, WebSockets, TypeScript, JSON Web Tokens, React JS, Django, Django-Rest-Framework, HTML/CSS
-
-DS and ML: pandas, sklearn, boosting, mediapipe
-
-Languages: C++, Java, Python, JavaScript
-
-Miscellaneous: CMake, protobuf, nix (nix-flakes), git, Unix, SQL, competitive programming
-
-API: Yandex Maps API 2.1; Ymaps React Wrapper; OpenAI API; Telegram API; VK API
-
-Additional: Photo Editing (Lightroom), Video editing/VFX (Davinci Resolve), Filming: DJI Mini 3, Nikon D5600
+•	Embedded Systems: C/C++, Asynchronous programming, ROS2, FPGA, VHDL, CMake, Unit Testing
+•	Networks: CAN, FlexCAN, Ethernet, I2C, Protobuf, Sockets
+•	Tools and Software: git, Docker, Quartus, Altium, Postman, VSCode, SLAM + LiDAR (IP), Linux, Multimeter, Oscilloscopes
+•	Coursework: Digital Design, HW Programming, OOP, Algorithms and Data Structures, Computer Organization, Databases
+•	Miscellaneous: Competitive coding, Java, SQL, Python, Pandas, sklearn, API, TypeScript, Nest.js, Prisma, Node.js, React, JWT, Django
 
 ### UNIFIED BY FOOTBALL RELEASED: http://unifiedbyfootball.club (WIP to get the hosting back)
 
