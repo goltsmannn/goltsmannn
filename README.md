@@ -5,20 +5,18 @@
 
 ## 🚀 About Me
 
-#### Georgia Institute of Technology (Computer Science) '28
+#### Georgia Institute of Technology (Computer Engineering + Computer Science) '27
 
-National Research University Higher School of Economics Lyceum '24 
 
-International A-levels: A* A* A* (Physics, Further Mathematics, Mathematics)
+## 🛠 Skills •
+• Embedded Programming: C/C++, PlatformIO, Bare-Metal C, RTOS, ROS2, Python, Assembly (RISC-V), Unit Testing
+• Platforms and Communication: CAN, Ethernet, I2C, Protobuf, Sockets, SPI, UART, Teensy, Arduino
+• Tools & Software: git, CMake, Linux, Docker, Altium, Quartus, VSCode, Multimeter, Oscilloscope, Integrated Circuits
+• Coursework: Digital Design (FPGA, VHDL), HW/SW Programming, OOP, Algorithms & Data Structures, Computer
+  Organization, ROS2, Database Design, Electricity & Magnetism, Discrete Math, Linear Algebra, Multivariable Calc
+• Misc: Competitive Coding, Java, SQL, Python, API, TypeScript, Node.js, React, JWT, Django
 
-## 🛠 Skills
-•	Embedded Systems: C/C++, Asynchronous programming, ROS2, FPGA, VHDL, CMake, Unit Testing
-•	Networks: CAN, FlexCAN, Ethernet, I2C, Protobuf, Sockets
-•	Tools and Software: git, Docker, Quartus, Altium, Postman, VSCode, SLAM + LiDAR (IP), Linux, Multimeter, Oscilloscopes
-•	Coursework: Digital Design, HW Programming, OOP, Algorithms and Data Structures, Computer Organization, Databases
-•	Miscellaneous: Competitive coding, Java, SQL, Python, Pandas, sklearn, API, TypeScript, Nest.js, Prisma, Node.js, React, JWT, Django
-
-### UNIFIED BY FOOTBALL RELEASED: http://unifiedbyfootball.club (WIP to get the hosting back)
+### UNIFIED BY FOOTBALL TEMPORARILY DOWN
 
 ## 🔗 Links
 [![LinkedIn](https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg)](https://www.linkedin.com/in/goltsmannn/)
