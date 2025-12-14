@@ -9,15 +9,11 @@
 
 
 ## 🛠 Skills •
-• Embedded Programming: C/C++, PlatformIO, Bare-Metal C, RTOS, ROS2, Python, Assembly (RISC-V), Unit Testing
-• Platforms and Communication: CAN, Ethernet, I2C, Protobuf, Sockets, SPI, UART, Teensy, Arduino
-• Tools & Software: git, CMake, Linux, Docker, Altium, Quartus, VSCode, Multimeter, Oscilloscope, Integrated Circuits
-• Coursework: Digital Design (FPGA, VHDL), HW/SW Programming, OOP, Algorithms & Data Structures, Computer
-  Organization, ROS2, Database Design, Electricity & Magnetism, Discrete Math, Linear Algebra, Multivariable Calc
-• Misc: Competitive Coding, Java, SQL, Python, API, TypeScript, Node.js, React, JWT, Django
+• Embedded Systems: C/C++, Bare Metal C, RTOS,, CAN, SPI, UART, I2C, Teensy, Arduino, ESP32, RISC-V, HiL
+• Autonomy: ROS, Python, NumPy, Kalman Filters, Particle Filter, Path Planning, Reactive Methods, Simulation, SiL
+• Tools & Software: git, CMake, Linux, PlatformIO, VSCode, Multimeter, Oscilloscope, Logic Analyzer
 
-### UNIFIED BY FOOTBALL TEMPORARILY DOWN
-
+]
 ## 🔗 Links
 [![LinkedIn](https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg)](https://www.linkedin.com/in/goltsmannn/)
 
