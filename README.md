@@ -1,14 +1,21 @@
-
-# Mark Goltsman
-
-
-
-## 🚀 About
-
-### Current Position: Power Electronics Controls Firmware @ Tesla
-### Experience in: Embedded Software (Autonomous Vehicles, Telemetry), Firmware (Electric Vehicles, Energy Products, Inertial Navigation), HiL & SiL
-## 🔗 Links
-[![LinkedIn](https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg)](https://www.linkedin.com/in/goltsmannn/)
+<h1 align="center">Mark Goltsman</h1>
+<p align="center"> CS + ECE @ Georgia Tech</p>
 
 
-![goltsmannn's Stats](https://github-readme-stats.vercel.app/api?username=goltsmannn&theme=merko&show_icons=true&hide_border=false&count_private=true)
+---
+
+<p align="center">
+  Embedded Systems | Electric and Autonomous Vehicles | Energy
+</p>
+
+<p align="center">
+  Power Electronics Controls Firmware @ Tesla 
+  <br>
+  Undergraduate Researcher @ Active Safety for Autonomous Vehicles (VIP Program)
+  <br>
+  Firmware & Sensors @ HyTech Racing 
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/goltsmannn/">linkedin</a> 
+</p>
