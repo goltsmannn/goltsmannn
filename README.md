@@ -14,6 +14,8 @@
   Undergraduate Researcher @ Active Safety for Autonomous Vehicles (VIP Program)
   <br>
   Firmware & Sensors @ HyTech Racing 
+  <br>
+  Incoming Body Firmware @ Zoox
 </p>
 
 <p align="center">
