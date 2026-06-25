@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  Power Electronics Controls Firmware @ Tesla 
+  Firmware Engineer @ Zoox | Body/Thermal Team
+  <br>
+  Ex. Controls & Firmware Engineer @ Tesla | Power Electronics Team
   <br>
   Undergraduate Researcher @ Active Safety for Autonomous Vehicles (VIP Program)
   <br>
   Firmware & Sensors @ HyTech Racing 
-  <br>
-  Incoming Body Firmware @ Zoox
 </p>
 
 <p align="center">
